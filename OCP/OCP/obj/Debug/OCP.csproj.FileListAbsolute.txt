@@ -1,0 +1,7 @@
+C:\Users\hp\TCAT\OCP\OCP\bin\Debug\OCP.exe.config
+C:\Users\hp\TCAT\OCP\OCP\bin\Debug\OCP.exe
+C:\Users\hp\TCAT\OCP\OCP\bin\Debug\OCP.pdb
+C:\Users\hp\TCAT\OCP\OCP\obj\Debug\OCP.csproj.AssemblyReference.cache
+C:\Users\hp\TCAT\OCP\OCP\obj\Debug\OCP.csproj.CoreCompileInputs.cache
+C:\Users\hp\TCAT\OCP\OCP\obj\Debug\OCP.exe
+C:\Users\hp\TCAT\OCP\OCP\obj\Debug\OCP.pdb
